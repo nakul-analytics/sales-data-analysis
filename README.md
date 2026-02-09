@@ -1,13 +1,11 @@
-# sales-data-analysisSales Data Analysis Project
+Data Analyst Portfolio – Nakul Gupta
 
-Tools used:
-- SQL (MySQL)
-- Excel
+Projects:
+1. Sales Data Analysis (SQL)
+   - Analyzed sales dataset using MySQL
+   - Found total revenue, top product, city sales
+   - Used GROUP BY, SUM, ORDER BY
 
-In this project I analyzed sales data to find:
-- Total revenue
-- Top selling product
-- City wise sales
-- Order count
-
-This is part of my Data Analyst learning journey.
+More projects coming soon:
+- Excel dashboard
+- Power BI dashboard
