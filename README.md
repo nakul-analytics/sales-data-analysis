@@ -1,14 +1,18 @@
-Data Analyst Portfolio – Nakul Gupta
+# Sales Data Analysis (Excel Project)
 
-Skills:
-- Excel
-- SQL (MySQL)
+## Tools Used
+- Microsoft Excel
+- Pivot Tables
+- Charts
 
-Project 1: Sales Data Analysis
-- Created sales database in MySQL
-- Calculated total revenue
-- Found top selling product
-- City wise sales analysis
-- Used GROUP BY, SUM, COUNT, ORDER BY
+## Objective
+Analyze sales data to find revenue trends and top products.
 
-More projects coming soon.
+## Key Insights
+- Top selling category
+- Highest revenue month
+- Best performing region
+
+## Files
+- Dataset
+- Excel dashboard
